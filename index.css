@@ -121,13 +121,12 @@
     text-align: center;
     height: 600px;
     margin: auto;
-    /* background-image: url("https://media.giphy.com/media/I6oOVy0GwvGiQ/giphy.gif");
+    background-image: url("https://media.giphy.com/media/I6oOVy0GwvGiQ/giphy.gif");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     color: white;
     position: relative;
-    background-color: yellow;
   }
   
   #centered {
@@ -259,8 +258,9 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background-image: url("https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8");
+    /* background-image: url("https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8"); */
     opacity: .9;
+    background: yellow;
     /* background-color: black; */
   }
   
