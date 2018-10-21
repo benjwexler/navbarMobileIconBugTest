@@ -261,12 +261,14 @@
     /* background-image: url("https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8"); */
     opacity: .9;
     background: white;
-    border-bottom-right-radius: 50%;
+    border-bottom-right-radius: 40%;
     /* background-color: black; */
   }
   
   #hamburger {
     z-index: 9999;
+    color: #00d7d7;
+  
     -webkit-font-smoothing: auto;
   }
   
